@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, purple, blue);
+}
+
+p {
+    color: #fff;
+    font-size: 25px;
+    border-bottom: 1px solid #eee;
+}
